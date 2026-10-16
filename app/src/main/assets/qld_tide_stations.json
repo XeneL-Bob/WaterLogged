@@ -1,0 +1,630 @@
+{
+  "source": "Maritime Safety Queensland / Queensland Open Data",
+  "checkedYear": 2026,
+  "stations": [
+    {
+      "id": "abbot-point-tide-gauge-predicted-interval-data",
+      "name": "Abbot Point",
+      "latitude": -19.85,
+      "longitude": 148.08333333333334,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/abbot-point-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "amrun-tide-gauge-predicted-interval-data",
+      "name": "Amrun",
+      "latitude": -12.916666666666666,
+      "longitude": 141.6,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/amrun-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "aurukun-archer-river-tide-gauge-predicted-interval-data",
+      "name": "Aurukun Archer River",
+      "latitude": -13.366666666666667,
+      "longitude": 141.71666666666667,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/aurukun-archer-river-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "badu-island-tide-gauge-predicted-interval-data",
+      "name": "Badu Island",
+      "latitude": -10.166666666666666,
+      "longitude": 142.16666666666666,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/badu-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "boigu-island-tide-gauge-predicted-interval-data",
+      "name": "Boigu Island",
+      "latitude": -9.216666666666667,
+      "longitude": 142.21666666666667,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/boigu-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "booby-island-tide-gauge-predicted-interval-data",
+      "name": "Booby Island",
+      "latitude": -10.6,
+      "longitude": 141.91666666666666,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/booby-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "bowen-tide-gauge-predicted-interval-data",
+      "name": "Bowen",
+      "latitude": -20.016666666666666,
+      "longitude": 148.25,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/bowen-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "brisbane-bar-tide-gauge-predicted-interval-data",
+      "name": "Brisbane Bar",
+      "latitude": -27.4,
+      "longitude": 153.15,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/brisbane-bar-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "bugatti-reef-outer-tide-gauge-predicted-interval-data",
+      "name": "Bugatti Reef Outer",
+      "latitude": -20.083333333333332,
+      "longitude": 150.3,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/bugatti-reef-outer-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "bundaberg-tide-gauge-predicted-interval-data",
+      "name": "Bundaberg",
+      "latitude": -24.766666666666666,
+      "longitude": 152.36666666666667,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/bundaberg-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "burnett-heads-tide-gauge-predicted-interval-data",
+      "name": "Burnett Heads",
+      "latitude": -24.75,
+      "longitude": 152.4,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/burnett-heads-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "cairns-tide-gauge-predicted-interval-data",
+      "name": "Cairns",
+      "latitude": -16.916666666666668,
+      "longitude": 145.76666666666668,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/cairns-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "cairns-beacon-c1-tide-gauge-predicted-interval-data",
+      "name": "Cairns Beacon C1",
+      "latitude": -16.816666666666666,
+      "longitude": 145.81666666666666,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/cairns-beacon-c1-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "cape-ferguson-tide-gauge-predicted-interval-data",
+      "name": "Cape Ferguson",
+      "latitude": -19.266666666666666,
+      "longitude": 147.05,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/cape-ferguson-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "cape-flattery-tide-gauge-predicted-interval-data",
+      "name": "Cape Flattery",
+      "latitude": -14.95,
+      "longitude": 145.3,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/cape-flattery-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "cardwell-tide-gauge-predicted-interval-data",
+      "name": "Cardwell",
+      "latitude": -18.25,
+      "longitude": 146.01666666666668,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/cardwell-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "clump-point-tide-gauge-predicted-interval-data",
+      "name": "Clump Point",
+      "latitude": -17.85,
+      "longitude": 146.1,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/clump-point-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "coconut-island-poruma-tide-gauge-predicted-interval-data",
+      "name": "Coconut Island (Poruma)",
+      "latitude": -10.033333333333333,
+      "longitude": 143.05,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/coconut-island-poruma-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "cooktown-tide-gauge-predicted-interval-data",
+      "name": "Cooktown",
+      "latitude": -15.45,
+      "longitude": 145.23333333333332,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/cooktown-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "darnley-island-erub-tide-gauge-predicted-interval-data",
+      "name": "Darnley Island (Erub)",
+      "latitude": -9.583333333333334,
+      "longitude": 143.75,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/darnley-island-erub-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "dauan-island-tide-gauge-predicted-interval-data",
+      "name": "Dauan Island",
+      "latitude": -9.4,
+      "longitude": 142.53333333333333,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/dauan-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "deep-water-bend-pine-river-tide-gauge-predicted-interval-data",
+      "name": "Deep Water Bend Pine River",
+      "latitude": -27.283333333333335,
+      "longitude": 153.03333333333333,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/deep-water-bend-pine-river-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "fisherman-s-landing-tide-gauge-predicted-interval-data",
+      "name": "Fisherman's Landing",
+      "latitude": -23.783333333333335,
+      "longitude": 151.16666666666666,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/fisherman-s-landing-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "gladstone-auckland-point-tide-gauge-predicted-interval-data",
+      "name": "Gladstone Auckland Point",
+      "latitude": -23.816666666666666,
+      "longitude": 151.25,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/gladstone-auckland-point-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "gold-coast-seaway-tide-gauge-predicted-interval-data",
+      "name": "Gold Coast Seaway",
+      "latitude": -27.933333333333334,
+      "longitude": 153.41666666666666,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/gold-coast-seaway-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "golding-reciprocal-f-l-gladstone-tide-gauge-predicted-interval-data",
+      "name": "Golding Channel\u2014predicted interval data",
+      "latitude": -23.933333333333334,
+      "longitude": 151.45,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/golding-reciprocal-f-l-gladstone-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "goods-island-tide-gauge-predicted-interval-data",
+      "name": "Goods Island",
+      "latitude": -10.566666666666666,
+      "longitude": 142.15,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/goods-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "half-tide-tug-harbour-tide-gauge-predicted-interval-data",
+      "name": "Half Tide Tug Harbour",
+      "latitude": -21.283333333333335,
+      "longitude": 149.3,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/half-tide-tug-harbour-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "hammond-island-tide-gauge-predicted-interval-data",
+      "name": "Hammond Island",
+      "latitude": -10.55,
+      "longitude": 142.21666666666667,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/hammond-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "hay-point-tide-gauge-predicted-interval-data",
+      "name": "Hay Point",
+      "latitude": -21.266666666666666,
+      "longitude": 149.3,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/hay-point-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "inscription-point-sweers-island-tide-gauge-predicted-interval-data",
+      "name": "Inscription Point Sweers Island",
+      "latitude": -17.1,
+      "longitude": 139.58333333333334,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/inscription-point-sweers-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "karumba-tide-gauge-predicted-interval-data",
+      "name": "Karumba",
+      "latitude": -17.483333333333334,
+      "longitude": 140.83333333333334,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/karumba-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "karumba-bar-tide-gauge-predicted-interval-data",
+      "name": "Karumba Bar",
+      "latitude": -17.416666666666668,
+      "longitude": 140.71666666666667,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/karumba-bar-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "kingfisher-bay-jetty-tide-gauge-predicted-interval-data",
+      "name": "Kingfisher Bay Jetty",
+      "latitude": -25.383333333333333,
+      "longitude": 153.01666666666668,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/kingfisher-bay-jetty-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "kubin-moa-island-tide-gauge-predicted-interval-data",
+      "name": "Kubin (Moa Island)",
+      "latitude": -10.233333333333333,
+      "longitude": 142.2,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/kubin-moa-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "leggatt-island-tide-gauge-predicted-interval-data",
+      "name": "Leggatt Island",
+      "latitude": -14.516666666666667,
+      "longitude": 144.85,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/leggatt-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "lizard-island-tide-gauge-predicted-interval-data",
+      "name": "Lizard Island",
+      "latitude": -14.666666666666666,
+      "longitude": 145.43333333333334,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/lizard-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "lucinda-tide-gauge-predicted-interval-data",
+      "name": "Lucinda",
+      "latitude": -18.516666666666666,
+      "longitude": 146.38333333333333,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/lucinda-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "mabuiag-island-tide-gauge-predicted-interval-data",
+      "name": "Mabuiag Island",
+      "latitude": -9.95,
+      "longitude": 142.2,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/mabuiag-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "mackay-tide-gauge-predicted-interval-data",
+      "name": "Mackay",
+      "latitude": -21.1,
+      "longitude": 149.21666666666667,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/mackay-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "mooloolaba-tide-gauge-predicted-interval-data",
+      "name": "Mooloolaba",
+      "latitude": -26.683333333333334,
+      "longitude": 153.13333333333333,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/mooloolaba-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "mornington-island-tide-gauge-predicted-interval-data",
+      "name": "Mornington Island",
+      "latitude": -16.666666666666668,
+      "longitude": 139.16666666666666,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/mornington-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "mossman-tide-gauge-predicted-interval-data",
+      "name": "Mossman",
+      "latitude": -16.416666666666668,
+      "longitude": 145.4,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/mossman-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "mourilyan-tide-gauge-predicted-interval-data",
+      "name": "Mourilyan",
+      "latitude": -17.583333333333332,
+      "longitude": 146.11666666666667,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/mourilyan-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "murray-island-meer-tide-gauge-predicted-interval-data",
+      "name": "Murray Island (Meer)",
+      "latitude": -9.9,
+      "longitude": 144.03333333333333,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/murray-island-meer-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "no-2-beacon-weipa-tide-gauge-predicted-interval-data",
+      "name": "No 2 Beacon Weipa",
+      "latitude": -12.683333333333334,
+      "longitude": 141.7,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/no-2-beacon-weipa-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "noosa-head-tide-gauge-predicted-interval-data",
+      "name": "Noosa Head",
+      "latitude": -26.383333333333333,
+      "longitude": 153.1,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/noosa-head-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "north-cardinal-beacon-townsville-tide-gauge-predicted-interval-data",
+      "name": "North Cardinal Beacon Townsville",
+      "latitude": -19.116666666666667,
+      "longitude": 146.9,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/north-cardinal-beacon-townsville-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "pinkenba-tide-gauge-predicted-interval-data",
+      "name": "Pinkenba",
+      "latitude": -27.416666666666668,
+      "longitude": 153.11666666666667,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/pinkenba-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "port-alma-tide-gauge-predicted-interval-data",
+      "name": "Port Alma",
+      "latitude": -23.583333333333332,
+      "longitude": 150.85,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/port-alma-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "port-douglas-tide-gauge-predicted-interval-data",
+      "name": "Port Douglas",
+      "latitude": -16.483333333333334,
+      "longitude": 145.45,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/port-douglas-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "port-office-brisbane-river-tide-gauge-predicted-interval-data",
+      "name": "Port Office Brisbane River",
+      "latitude": -27.466666666666665,
+      "longitude": 153.01666666666668,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/port-office-brisbane-river-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "portland-roads-tide-gauge-predicted-interval-data",
+      "name": "Portland Roads",
+      "latitude": -12.583333333333334,
+      "longitude": 143.4,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/portland-roads-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "red-island-point-bamaga-tide-gauge-predicted-interval-data",
+      "name": "Red Island Point Bamaga",
+      "latitude": -10.833333333333334,
+      "longitude": 142.36666666666667,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/red-island-point-bamaga-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "rockhampton-tide-gauge-predicted-interval-data",
+      "name": "Rockhampton",
+      "latitude": -23.366666666666667,
+      "longitude": 150.51666666666668,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/rockhampton-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "rosslyn-bay-tide-gauge-predicted-interval-data",
+      "name": "Rosslyn Bay",
+      "latitude": -23.15,
+      "longitude": 150.78333333333333,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/rosslyn-bay-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "saibai-island-tide-gauge-predicted-interval-data",
+      "name": "Saibai Island",
+      "latitude": -9.366666666666667,
+      "longitude": 142.6,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/saibai-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "scarborough-tide-gauge-predicted-interval-data",
+      "name": "Scarborough",
+      "latitude": -27.183333333333334,
+      "longitude": 153.1,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/scarborough-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "shorncliffe-tide-gauge-predicted-interval-data",
+      "name": "Shorncliffe",
+      "latitude": -27.316666666666666,
+      "longitude": 153.08333333333334,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/shorncliffe-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "shute-harbour-tide-gauge-predicted-interval-data",
+      "name": "Shute Harbour",
+      "latitude": -20.283333333333335,
+      "longitude": 148.78333333333333,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/shute-harbour-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "skardon-river-tide-gauge-predicted-interval-data",
+      "name": "Skardon River",
+      "latitude": -11.75,
+      "longitude": 142.06666666666666,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/skardon-river-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "skardon-river-offshore-tide-gauge-predicted-interval-data",
+      "name": "Skardon River Offshore",
+      "latitude": -11.75,
+      "longitude": 141.98333333333332,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/skardon-river-offshore-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "south-trees-tide-gauge-predicted-interval-data",
+      "name": "South Trees",
+      "latitude": -23.85,
+      "longitude": 151.3,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/south-trees-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "southport-tide-gauge-predicted-interval-data",
+      "name": "Southport",
+      "latitude": -27.966666666666665,
+      "longitude": 153.41666666666666,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/southport-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "st-pauls-moa-island-tide-gauge-predicted-interval-data",
+      "name": "St Pauls (Moa Island)",
+      "latitude": -10.183333333333334,
+      "longitude": 142.33333333333334,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/st-pauls-moa-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "stephens-island-ugar-tide-gauge-predicted-interval-data",
+      "name": "Stephens Island (Ugar)",
+      "latitude": -9.5,
+      "longitude": 143.53333333333333,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/stephens-island-ugar-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "sue-island-warraber-tide-gauge-predicted-interval-data",
+      "name": "Sue Island (Warraber)",
+      "latitude": -10.2,
+      "longitude": 142.81666666666666,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/sue-island-warraber-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "tangalooma-tide-gauge-predicted-interval-data",
+      "name": "Tangalooma Jetty",
+      "latitude": -27.166666666666668,
+      "longitude": 153.36666666666667,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/tangalooma-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "thursday-island-tide-gauge-predicted-interval-data",
+      "name": "Thursday Island",
+      "latitude": -10.583333333333334,
+      "longitude": 142.21666666666667,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/thursday-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "tin-can-bay-snapper-creek-tide-gauge-predicted-interval-data",
+      "name": "Tin Can Bay Snapper Creek",
+      "latitude": -25.9,
+      "longitude": 153.0,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/tin-can-bay-snapper-creek-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "townsville-tide-gauge-predicted-interval-data",
+      "name": "Townsville",
+      "latitude": -19.233333333333334,
+      "longitude": 146.83333333333334,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/townsville-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "twin-island-tide-gauge-predicted-interval-data",
+      "name": "Twin Island",
+      "latitude": -10.466666666666667,
+      "longitude": 142.43333333333334,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/twin-island-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "urangan-tide-gauge-predicted-interval-data",
+      "name": "Urangan",
+      "latitude": -25.283333333333335,
+      "longitude": 152.9,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/urangan-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "urangan-fairway-beacon-tide-gauge-predicted-interval-data",
+      "name": "Urangan Fairway Beacon",
+      "latitude": -25.133333333333333,
+      "longitude": 152.81666666666666,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/urangan-fairway-beacon-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "waddy-point-k-gari-tide-gauge-predicted-interval-data",
+      "name": "Waddy Point K'gari",
+      "latitude": -24.966666666666665,
+      "longitude": 153.35,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/waddy-point-k-gari-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "weipa-tide-gauge-predicted-interval-data",
+      "name": "Weipa",
+      "latitude": -12.666666666666666,
+      "longitude": 141.85,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/weipa-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "yam-island-iama-tide-gauge-predicted-interval-data",
+      "name": "Yam Island (Iama)",
+      "latitude": -9.9,
+      "longitude": 142.76666666666668,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/yam-island-iama-tide-gauge-predicted-interval-data"
+    },
+    {
+      "id": "yorke-island-masig-tide-gauge-predicted-interval-data",
+      "name": "Yorke Island (Masig)",
+      "latitude": -9.733333333333333,
+      "longitude": 143.4,
+      "licence": "CC-BY-4.0",
+      "source": "https://www.data.qld.gov.au/dataset/yorke-island-masig-tide-gauge-predicted-interval-data"
+    }
+  ]
+}

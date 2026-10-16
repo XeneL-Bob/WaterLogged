@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+*.iml
+*.jks
+*.keystore
+.DS_Store
+/work/
+__pycache__/
+*.py[cod]
+WaterLogged-Android-MVP.zip

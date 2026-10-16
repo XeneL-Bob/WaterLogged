@@ -1,0 +1,75 @@
+Copyright (c) 2014, Vladimir Agafonkin
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are
+permitted provided that the following conditions are met:
+
+   1. Redistributions of source code must retain the above copyright notice, this list of
+      conditions and the following disclaimer.
+
+   2. Redistributions in binary form must reproduce the above copyright notice, this list
+      of conditions and the following disclaimer in the documentation and/or other materials
+      provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Water Logged data credits
+========================
+MoonPhase.java adapts the lunar illumination algorithm from SunCalc 1.9.0:
+https://github.com/mourner/suncalc/tree/v1.9.0
+The BSD-2-Clause notice above is retained for this adaptation.
+
+Weather and marine model data: Open-Meteo, https://open-meteo.com/
+Licensed under CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+Values are selected for the catch time, wind bearings converted to compass labels,
+and model areas selected using rounded coordinates. They are model estimates.
+API service terms: https://open-meteo.com/en/terms
+This student pilot uses the non-commercial free service. A commercial release
+requires a suitable paid service plan and compliance with provider terms.
+
+Queensland tide predictions: Maritime Safety Queensland / Bureau of Meteorology,
+provided through Queensland Open Data, https://www.data.qld.gov.au/
+https://www.msq.qld.gov.au/Tides/Open-data
+Licensed under CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+Dataset links and licences are preserved in qld_tide_stations.json.
+Gauge coordinates were converted from published degrees/minutes metadata.
+Prediction rows are selected by catch time; level trend is derived from adjoining
+10-minute heights. Heights are above Lowest Astronomical Tide (LAT). Predictions
+are not actual water-level observations or a measure of tidal current.
+
+Pilot 0.3 additional data and image credits
+=========================================
+Observed weather: Bureau of Meteorology, Copyright Commonwealth of Australia.
+Documented public 72-hour observation feeds:
+https://www.bom.gov.au/catalogue/data-feeds.shtml
+https://www.bom.gov.au/copyright
+These anonymous feeds are for personal/non-commercial pilot use, subject to
+BOM's terms. No claim is made that they carry the CC BY licence used by the
+Queensland Open Data datasets. Commercial use requires appropriate permission
+or a licensed data service. The app requests public station identifiers only.
+
+Observed total waves / Hs: Queensland Coastal Data System, Department of the
+Environment, Tourism, Science and Innovation, Queensland Government.
+https://www.data.qld.gov.au/dataset/coastal-data-system-near-real-time-wave-data
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Public buoy positions are used to match a nearby site locally. Hs is retained as
+total significant wave height, not relabelled as swell or maximum wave height.
+
+Model data: Open-Meteo, with upstream providers including DWD, ECMWF,
+Meteo-France, NOAA/NCEP and BOM as described in Open-Meteo's documentation.
+The app labels model estimates separately from observations.
+
+Species reference photographs and illustrations: individual creators listed in
+species_catalogue.json and Species image credits in offline Help. Each file
+retains its CC BY, CC BY-SA, CC0 or public-domain terms. The app code does not
+change the licences of those image files. Source pages and full licence links
+are preserved per image. Generic icons are used where no suitable verified
+freely licensed image has been bundled.

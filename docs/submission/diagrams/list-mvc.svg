@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="770" viewBox="0 0 1400 770"><rect width="100%" height="100%" fill="white"/>
+<rect x="60" y="25" width="760" height="130" rx="10" fill="#edf4f8" stroke="#647b88" stroke-width="2"/>
+<text x="440.0" y="72" text-anchor="middle" font-family="Arial" font-size="29" font-weight="bold">View</text>
+<text x="440.0" y="108" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal">RecyclerView + CatchAdapter</text>
+<text x="440.0" y="144" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal">Header, catch cards and displayed values</text>
+<rect x="960" y="25" width="380" height="130" rx="10" fill="#edf4f8" stroke="#647b88" stroke-width="2"/>
+<text x="1150.0" y="72" text-anchor="middle" font-family="Arial" font-size="29" font-weight="bold">Navigation</text>
+<text x="1150.0" y="108" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal">MainActivity</text>
+<text x="1150.0" y="144" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal">Toolbar and back stack</text>
+<rect x="60" y="275" width="760" height="130" rx="10" fill="#edf4f8" stroke="#647b88" stroke-width="2"/>
+<text x="440.0" y="322" text-anchor="middle" font-family="Arial" font-size="29" font-weight="bold">Controller</text>
+<text x="440.0" y="358" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal">CatchListFragment</text>
+<text x="440.0" y="394" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal">Home / My Log, filters and selected sort</text>
+<rect x="60" y="545" width="760" height="130" rx="10" fill="#edf4f8" stroke="#647b88" stroke-width="2"/>
+<text x="440.0" y="592" text-anchor="middle" font-family="Arial" font-size="29" font-weight="bold">Model</text>
+<text x="440.0" y="628" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal">WaterRepository</text>
+<text x="440.0" y="664" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal">CatchRecord + Species</text>
+<rect x="960" y="545" width="380" height="170" rx="10" fill="#edf4f8" stroke="#647b88" stroke-width="2"/>
+<text x="1150.0" y="592" text-anchor="middle" font-family="Arial" font-size="29" font-weight="bold">Room storage</text>
+<text x="1150.0" y="628" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal">WaterDatabase</text>
+<text x="1150.0" y="664" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal">CatchDao + SpeciesDao</text>
+<text x="1150.0" y="700" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal">SQL ORDER BY</text>
+<polyline points="290,275 290,155" fill="none" stroke="#283f4d" stroke-width="3"/>
+<polygon points="290,155 284.0,168.0 296.0,168.0" fill="#283f4d"/>
+<text x="285" y="213" text-anchor="middle" font-family="Arial" font-size="25" fill="#111111" stroke="white" stroke-width="7" paint-order="stroke">bind rows</text>
+<polyline points="600,155 600,275" fill="none" stroke="#283f4d" stroke-width="3"/>
+<polygon points="600,275 606.0,262.0 594.0,262.0" fill="#283f4d"/>
+<text x="600" y="213" text-anchor="middle" font-family="Arial" font-size="25" fill="#111111" stroke="white" stroke-width="7" paint-order="stroke">tap catch</text>
+<polyline points="820,330 1140,330 1140,155" fill="none" stroke="#283f4d" stroke-width="3"/>
+<polygon points="1140,155 1134.0,168.0 1146.0,168.0" fill="#283f4d"/>
+<text x="1070" y="373" text-anchor="middle" font-family="Arial" font-size="25" fill="#111111" stroke="white" stroke-width="7" paint-order="stroke">navigate by UUID</text>
+<polyline points="290,405 290,545" fill="none" stroke="#283f4d" stroke-width="3"/>
+<polygon points="290,545 296.0,532.0 284.0,532.0" fill="#283f4d"/>
+<text x="290" y="483" text-anchor="middle" font-family="Arial" font-size="25" fill="#111111" stroke="white" stroke-width="7" paint-order="stroke">observe query</text>
+<polyline points="600,545 600,405" fill="none" stroke="#283f4d" stroke-width="3"/>
+<polygon points="600,405 594.0,418.0 606.0,418.0" fill="#283f4d"/>
+<text x="600" y="483" text-anchor="middle" font-family="Arial" font-size="25" fill="#111111" stroke="white" stroke-width="7" paint-order="stroke">LiveData rows</text>
+<polyline points="820,590 960,590" fill="none" stroke="#283f4d" stroke-width="3"/>
+<polygon points="960,590 947.0,584.0 947.0,596.0" fill="#283f4d"/>
+<text x="890" y="563" text-anchor="middle" font-family="Arial" font-size="25" fill="#111111" stroke="white" stroke-width="7" paint-order="stroke">query</text>
+<polyline points="960,650 820,650" fill="none" stroke="#283f4d" stroke-width="3"/>
+<polygon points="820,650 833.0,656.0 833.0,644.0" fill="#283f4d"/>
+<text x="890" y="698" text-anchor="middle" font-family="Arial" font-size="25" fill="#111111" stroke="white" stroke-width="7" paint-order="stroke">rows</text>
+<text x="700" y="760" text-anchor="middle" font-family="Arial" font-size="25">Room changes refresh the list; UI code does not reorder the rows.</text>
+</svg>

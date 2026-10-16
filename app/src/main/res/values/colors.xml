@@ -1,0 +1,9 @@
+<resources>
+    <color name="ocean">#032C4B</color>
+    <color name="deep">#002139</color>
+    <color name="card">#073D63</color>
+    <color name="blue">#007BFF</color>
+    <color name="sky">#72C7FF</color>
+    <color name="white">#F5FAFF</color>
+    <color name="muted">#B9D8EF</color>
+</resources>

@@ -1,0 +1,169 @@
+{
+  "resourceId": "2bbef99e-9974-49b9-a316-57402b00609c",
+  "source": "Queensland Coastal Data System",
+  "licence": "CC-BY-4.0",
+  "stations": [
+    {
+      "id": "76",
+      "name": "Bundaberg",
+      "latitude": -24.66912,
+      "longitude": 152.49732
+    },
+    {
+      "id": "4805tx",
+      "name": "Abbot Point TriAxys",
+      "latitude": -19.8608,
+      "longitude": 148.0946
+    },
+    {
+      "id": "4740htx",
+      "name": "Mackay Harbour (east of southern breakwater)",
+      "latitude": -21.1127,
+      "longitude": 149.2423
+    },
+    {
+      "id": "4740tx",
+      "name": "Hay Point TriAxys",
+      "latitude": -21.282,
+      "longitude": 149.3228
+    },
+    {
+      "id": "52",
+      "name": "North Moreton Bay",
+      "latitude": -26.89866,
+      "longitude": 153.2811
+    },
+    {
+      "id": "54",
+      "name": "Caloundra",
+      "latitude": -26.84676,
+      "longitude": 153.15422
+    },
+    {
+      "id": "10",
+      "name": "Townsville",
+      "latitude": -19.17656,
+      "longitude": 147.07533
+    },
+    {
+      "id": "4581",
+      "name": "Wide Bay",
+      "latitude": -25.76055,
+      "longitude": 153.20284
+    },
+    {
+      "id": "59",
+      "name": "Albatross Bay",
+      "latitude": -12.68791,
+      "longitude": 141.68479
+    },
+    {
+      "id": "4",
+      "name": "Mooloolaba",
+      "latitude": -26.56624,
+      "longitude": 153.18083
+    },
+    {
+      "id": "4183",
+      "name": "Brisbane Mk4",
+      "latitude": -27.48703,
+      "longitude": 153.63282
+    },
+    {
+      "id": "4678",
+      "name": "One Tree Island (Offshore Gladstone)",
+      "latitude": -23.47979,
+      "longitude": 152.20107
+    },
+    {
+      "id": "4224",
+      "name": "Bilinga",
+      "latitude": -28.14138,
+      "longitude": 153.51311
+    },
+    {
+      "id": "4217",
+      "name": "Gold Coast Mk4",
+      "latitude": -27.96504,
+      "longitude": 153.44153
+    },
+    {
+      "id": "4225",
+      "name": "Tweed Heads Mk4",
+      "latitude": -28.17667,
+      "longitude": 153.57677
+    },
+    {
+      "id": "4870",
+      "name": "Cairns Mk4",
+      "latitude": -16.73214,
+      "longitude": 145.7111
+    },
+    {
+      "id": "4221",
+      "name": "Palm Beach Mk4",
+      "latitude": -28.09885,
+      "longitude": 153.48577
+    },
+    {
+      "id": "2487",
+      "name": "Tweed Offshore",
+      "latitude": -28.21327,
+      "longitude": 153.6779
+    },
+    {
+      "id": "4507w",
+      "name": "Woorim",
+      "latitude": -27.066,
+      "longitude": 153.215
+    },
+    {
+      "id": "4740",
+      "name": "Mackay Mk4",
+      "latitude": -21.03483,
+      "longitude": 149.54788
+    },
+    {
+      "id": "96",
+      "name": "Emu Park",
+      "latitude": -23.30272,
+      "longitude": 151.07162
+    },
+    {
+      "id": "4894",
+      "name": "Skardon River Outer",
+      "latitude": -11.74668,
+      "longitude": 141.83368
+    },
+    {
+      "id": "4896",
+      "name": "Skardon River Offshore",
+      "latitude": -11.723,
+      "longitude": 141.72021
+    },
+    {
+      "id": "4897",
+      "name": "Amrun Offshore",
+      "latitude": -12.16898,
+      "longitude": 140.27999
+    },
+    {
+      "id": "4898",
+      "name": "Amrun",
+      "latitude": -12.847,
+      "longitude": 141.61496
+    },
+    {
+      "id": "60",
+      "name": "Gladstone",
+      "latitude": -23.89494,
+      "longitude": 151.50222
+    },
+    {
+      "id": "4655",
+      "name": "Hervey Bay",
+      "latitude": -25.1209,
+      "longitude": 152.79951
+    }
+  ]
+}
